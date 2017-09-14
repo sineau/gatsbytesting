@@ -1,0 +1,22 @@
+[
+    {
+        "componentChunkName": "component---cache-dev-404-page-js",
+        "jsonName": "dev-404-page.json",
+        "path": "/dev-404-page/"
+    },
+    {
+        "componentChunkName": "component---src-pages-index-js",
+        "jsonName": "index.json",
+        "path": "/"
+    },
+    {
+        "componentChunkName": "component---src-pages-page-2-js",
+        "jsonName": "page-2.json",
+        "path": "/page-2/"
+    },
+    {
+        "componentChunkName": "component---src-pages-counter-js",
+        "jsonName": "counter.json",
+        "path": "/counter/"
+    }
+]
